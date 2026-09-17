@@ -1,4 +1,4 @@
-FlowerShop-Management-System
+# FlowerShop Management System 🌺
 
 
 1. Project Overview
