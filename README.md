@@ -3,7 +3,7 @@
 
 1. Project Overview
 
-FlowerShop Demo is an e-commerce website developed to simulate an online flower ordering system.
+FlowerShop Management System is an e-commerce website developed to simulate an online flower ordering system.
 
 The project focuses on designing a system that supports customers in browsing products, managing shopping carts, placing orders, and allowing administrators to manage products and customer orders.
 
