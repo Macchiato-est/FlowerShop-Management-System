@@ -1,74 +1,76 @@
 # FlowerShop Management System 🌺
 
 
-1. Project Overview
+## 1. Project Overview
 
-FlowerShop Management System is an e-commerce website developed to simulate an online flower ordering system.
+- FlowerShop Management System is a web-based application developed to simulate an online flower ordering and management system.
 
-The project focuses on designing a system that supports customers in browsing products, managing shopping carts, placing orders, and allowing administrators to manage products and customer orders.
+The project focuses on designing a system that supports customers in browsing products, managing shopping carts, placing orders, and allowing administrators to manage products, categories, customers, and orders.
 
-2. Business Context
+## 2. Business Context
 
-Traditional flower shops often face difficulties in:
+### Traditional flower shops often face difficulties in:
 
-Managing products manually
-Tracking customer orders
-Updating flower availability
-Providing customers with convenient online purchasing experience
+- Managing product information manually
+- Tracking customer orders
+- Maintaining product and category information
+- Providing customers with a convenient online purchasing experience
 
 This project aims to digitize the flower ordering process through a web-based system.
 
-3. My Role
+## 3. Project Role
 
-Role: Business Analyst & Developer
+Role: Business Analysis & System Development
 
-Responsibilities:
+### Responsibilities:
 
-Analyzed business requirements
-Defined system actors and use cases
-Designed database structure
-Designed user flows
-Developed backend and frontend functions
-Tested system scenarios
-4. System Users
-Customer
+- Analyzed business requirements and system objectives
+- Identified system actors and functional requirements
+- Designed use cases and user workflows
+- Designed database structure
+- Developed backend and frontend functions
+- Tested system scenarios and validated business flows
 
+## 4. System Users
+
+### Customer
 Functions:
 
-Register/Login
-Browse flowers
-Search products
-Add products to cart
-Place orders
-View order history
-Admin
+- Register/Login
+- Browse flowers
+- Search products
+- Add products to cart
+- Place orders
+- View order history
 
+
+### Admin
 Functions:
 
-Manage products
-Manage categories
-Manage customers
-Manage orders
+- Manage products
+- Manage categories
+- Manage customers
+- Manage orders
 
-## Tools & Methods
+## 5. Tools & Methods
 
-Analysis:
+### Business Analysis:
 - Requirement Analysis
 - Use Case Modeling
 - User Flow Design
 - Functional Specification
 
-Design:
+### Design:
 - ERD
 - Database Design
 - System Architecture
 
-Development:
+### Development:
 - Java Servlet/JSP
 - MySQL
 - Apache Tomcat
 
-Tools:
+### Tools:
 - GitHub
 - NetBeans
 - MySQL Workbench
