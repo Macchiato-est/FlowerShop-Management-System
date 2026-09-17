@@ -17,7 +17,7 @@
 | UC-C03 | Browse Products | Customer views available flower products |
 | UC-C04 | Search Products | Customer searches products by information |
 | UC-C05 | View Product Details | Customer views detailed product information |
-| UC-C06 | Manage Shopping Cart | Customer adds, updates, or removes products from cart |
+| UC-C06 | Manage Cart | Customer adds, updates, or removes products from cart |
 | UC-C07 | Place Order | Customer creates an order from shopping cart |
 | UC-C08 | View Order History | Customer views previous orders and order status |
 
@@ -33,3 +33,10 @@
 | UC-A05 | Manage Orders | Administrator views and processes customer orders |
 | UC-A06 | Update Order Status | Administrator updates order processing status |
 | UC-A07 | Manage Website Content | Administrator manages banners and website information |
+
+## 4. System Use Cases
+
+| Use Case ID | Use Case Name | Description |
+|---|---|---|
+| UC-S01 | Validate Product Availability | System checks product quantity before creating an order |
+| UC-S02 | Update Inventory Information | System updates product availability after order processing |
