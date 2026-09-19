@@ -16,7 +16,7 @@ The system aims to:
 |---|---|
 | Customer | Browse flower products, manage shopping cart, place orders, and track order status |
 | Administrator | Manage products, categories, customers, and orders |
-| Flower Shop Owner | Monitor and operate online sales activities |
+| Flower Shop Owner | Business stakeholder who monitors online sales activities and may operate the system through administrator functions |
 
 ## 3. System Scope
 
